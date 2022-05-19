@@ -1,0 +1,1 @@
+['London', 'Glasgow', 'Amsterdam', 'Berlin', 'Prague', 'Budapest', 'Bucharest']#7#3722#['London', 'Dublin', 'Glasgow', 'Amsterdam', 'Berlin', 'Copenhagen', 'Lisbon', 'Madrid', 'Barcelona', 'Lyon', 'Bordeaux', 'Munich', 'Paris', 'Bordeaux', 'Lyon', 'Barcelona', 'Madrid', 'Munich', 'Prague', 'Budapest', 'Belgrade', 'Bucharest']#22
